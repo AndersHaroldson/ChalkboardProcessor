@@ -1,5 +1,5 @@
 opencv-python
 streamlit
-PIL
+Pillow
 numpy
 img2pdf

@@ -19,7 +19,7 @@ def main():
 
     st.sidebar.title("Image Editing Panel")
 
-    link = '<meta http-equiv="refresh" content="0;url=https://haroldsonanders.netlify.app/">'
+    link = '<meta http-equiv="refresh" content="0;url=">'
     # Button brings user back to website
     if st.button('Back to Website'):
         st.markdown(link, unsafe_allow_html=True)
